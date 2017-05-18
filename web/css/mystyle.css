@@ -1,0 +1,30 @@
+* {
+    margin:0 auto;
+    padding: 0px;
+    font-family: sans-serif;
+    font-size: 26px;
+}
+.border-red{
+    border:1px solid red;
+}
+
+.navbar-bg-color{
+    background-color:#333;
+}
+
+.sidebar-nav li {
+}
+.sidebar-nav li {
+    list-style: none;
+    background-color: #220;
+    padding:12px;
+    padding-left: 20px;
+    border-bottom:1px solid white;
+}
+.sidebar-nav li a {
+    color:#ffffff;
+}
+
+.sidebar-nav li a:hover {
+    text-decoration: none;
+}
